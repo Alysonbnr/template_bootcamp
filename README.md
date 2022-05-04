@@ -1,5 +1,5 @@
 # Raíz do projeto
-###Orientações :
+### Orientações :
 
 Os arquivos .py devem realizar a chamada de uma única função que executa todo o pipiline proposto de cada projeto.
 A pasta src deve conter as funções e implementações dos pipilines. 
@@ -19,7 +19,7 @@ Funções que utilizam classificadores, treinamento, normalização de dados e o
 devem ser implementadas em machine_learning.py.
 
 
-####utils
+#### utils
 
 Funções que são genéricas de entrada de arquivos, para mostrar gráficos, leitura de arquivos, escrita devem ser implementadas dentro  da pasta utils.
 Neste caso é possivel subcategorizar se necessário, criando mais arquivos .py para alguma categoria específica dentro da pasta utils, por exemplo, arquivo .py destiado exclusivo para implementações de funções de leitura e escrita de arquivos.
